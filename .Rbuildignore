@@ -1,0 +1,6 @@
+.gitignore
+README.md
+proj
+^.*\.Rproj$
+^\.Rproj\.user$
+^cran-comments\.md$
