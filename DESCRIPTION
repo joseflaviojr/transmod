@@ -4,7 +4,7 @@ Title: Transcriptogram and Modularity
 Version: 0.1
 Author: Jose Flavio de Souza Dias Junior
 Maintainer: Jose Flavio de Souza Dias Junior <contato@joseflavio.com>
-Description: R library that implements a method to specify list of
+Description: R package that implements a method to specify list of
     most relevant genes among differential expression profiles
     based on gene network knowledge.
     This is done through transcriptogram of

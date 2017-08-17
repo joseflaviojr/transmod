@@ -1,7 +1,7 @@
 
 # transmod - Transcriptogram and Modularity
 
-R library that implements a method to specify list of most relevant genes among differential expression profiles based on gene network knowledge. This is done through [transcriptogram](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-1181) of gene expression profiles and analysis of differentially expressed modules.
+R package that implements a method to specify list of most relevant genes among differential expression profiles based on gene network knowledge. This is done through [transcriptogram](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-1181) of gene expression profiles and analysis of differentially expressed modules.
 
 Supporting Institutions:
 
@@ -12,9 +12,9 @@ Supporting Institutions:
 
 **Main reference:** DIAS JÚNIOR, J.F.S.; ALVES, R.; COMMES, T. [A module-based approach for evaluating differential genome-wide expression profiles](https://doi.org/10.1109/BRACIS.2016.069). In the 5th Brazilian Conference on Intelligent System ([BRACIS](http://cin.ufpe.br/%7Ebracis2016/)). Recife, PE, Brazil, October 9-12, 2016.
 
-## Library installation
+## Package installation
 
-This library was developed and tested only on version 3.3.1 of R platform.
+This package was developed and tested only on version 3.3.1 of R platform.
 
 Since *transmod* is still under development, it is not yet available on [CRAN repository](https://cran.r-project.org/).
 
@@ -41,7 +41,7 @@ install_github("joseflaviojr/transmod")
 
 Example of selection and analysis of differentially expressed genes.
 
-The *transmod* library contains sample data, which will be used here:
+The *transmod* package contains sample data, which will be used here:
 
 ``` R
 library(transmod)

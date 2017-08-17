@@ -19,10 +19,12 @@
 
 #-------------------------------------------------------
 
-#' Method to specify list of most relevant genes among
-#' differential expression profiles based on gene network knowledge.
-#' This is done through transcriptogram of gene expression profiles and
-#' analysis of differentially expressed modules.
+#' R package that implements a method to specify list of
+#' most relevant genes among differential expression profiles
+#' based on gene network knowledge.
+#' This is done through transcriptogram of
+#' gene expression profiles and analysis of
+#' differentially expressed modules.
 #'
 #' @docType package
 #' @name transmod

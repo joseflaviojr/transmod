@@ -32,7 +32,7 @@
 differentiate <- function( expressions, control_group, target_group ){
 
     if( ! requireNamespace("GeneSelector", quietly=TRUE) ){
-        stop("Library required: GeneSelector", call.=FALSE)
+        stop("Package required: GeneSelector", call.=FALSE)
     }
 
     expressions <- expressions[,c(control_group,target_group)]

@@ -4,13 +4,17 @@
 \name{transmod}
 \alias{transmod}
 \alias{transmod-package}
-\title{Method to specify list of most relevant genes among
-differential expression profiles based on gene network knowledge.
-This is done through transcriptogram of gene expression profiles and
-analysis of differentially expressed modules.}
+\title{R package that implements a method to specify list of
+most relevant genes among differential expression profiles
+based on gene network knowledge.
+This is done through transcriptogram of
+gene expression profiles and analysis of
+differentially expressed modules.}
 \description{
-Method to specify list of most relevant genes among
-differential expression profiles based on gene network knowledge.
-This is done through transcriptogram of gene expression profiles and
-analysis of differentially expressed modules.
+R package that implements a method to specify list of
+most relevant genes among differential expression profiles
+based on gene network knowledge.
+This is done through transcriptogram of
+gene expression profiles and analysis of
+differentially expressed modules.
 }
