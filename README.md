@@ -96,7 +96,7 @@ To view the levels of differentiation for each gene and the detected modules, ru
 
 ``` R
 palette(c("black","gray"))
-plot(diffg, col=modules, type="h")
+plot(diffg, col=modules, type="h", main="Differentially Expressed Modules", xlab="Genes", ylab="Differentiation Level")
 ```
 
 Result:
