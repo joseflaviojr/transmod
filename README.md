@@ -18,6 +18,20 @@ This library was developed and tested only on version 3.3.1 of R platform.
 
 Since *transmod* is still under development, it is not yet available on [CRAN repository](https://cran.r-project.org/).
 
+It is necessary to install other packages for the full operation of the *transmod*:
+
+``` R
+# devtools
+install.packages("devtools")
+
+# GeneSelector
+source("https://bioconductor.org/biocLite.R")
+biocLite("GeneSelector")
+```
+
+Installing the *transmod* package:
+
+
 ``` R
 library(devtools)
 install_github("joseflaviojr/transmod")
