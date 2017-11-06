@@ -160,4 +160,3 @@ The selected genes can be submitted to enrichment tools to find scientific data 
 * Ronnie Alves (Researcher) - alvesrco@gmail.com
 * Thérèse Commes (Researcher) - therese.commes@gmail.com
 * Andréa do Socorro Bolhosa Sarmento (Scientific Initiation/Scholarship Student) - andreassarmento@yahoo.com.br
-* Guilherme Lopes Sousa (Scientific Initiation/Volunteer Student) - guilherme.lops@hotmail.com
